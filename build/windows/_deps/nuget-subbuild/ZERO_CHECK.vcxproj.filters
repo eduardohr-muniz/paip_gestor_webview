@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\git_subir\armazensr\paip_gestor_webview\build\windows\_deps\nuget-subbuild\CMakeFiles\1763eaa8f2aa23ca87a119d780a6c5bc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F7FADB28-CD04-3BCA-87C0-5A7EABB39EA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

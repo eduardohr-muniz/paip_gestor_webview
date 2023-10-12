@@ -1,0 +1,10 @@
+^C:\GIT_SUBIR\ARMAZENSR\PAIP_GESTOR_WEBVIEW\BUILD\WINDOWS\CMAKEFILES\C95F6AA545DFA25F7AAC531F12C2FA2A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/git_subir/armazensr/paip_gestor_webview/windows -BC:/git_subir/armazensr/paip_gestor_webview/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/git_subir/armazensr/paip_gestor_webview/build/windows/gestor_paipfood.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

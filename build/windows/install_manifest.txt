@@ -1,0 +1,17 @@
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/icudtl.dat
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/flutter_windows.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/audioplayers_windows_plugin.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/flutter_pos_printer_platform_plugin.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/network_info_plus_windows_plugin.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/webview_windows_plugin.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/windows_single_instance_plugin.dll
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/assets/sound/somalert.mp3
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/packages/esc_pos_utils/resources/capabilities.json
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

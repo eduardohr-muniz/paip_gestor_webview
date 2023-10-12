@@ -1,0 +1,3 @@
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/git_subir/armazensr/paip_gestor_webview/build/windows/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

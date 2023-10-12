@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\windows_single_instance\windows\windows_single_instance_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\windows_single_instance\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CD8E688-B0AB-385A-94CA-1E18170DDE3F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

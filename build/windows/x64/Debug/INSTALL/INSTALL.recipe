@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\flutter\x64\Debug\flutter_assemble</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\audioplayers_windows\Debug\audioplayers_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\flutter_pos_printer_platform\Debug\flutter_pos_printer_platform_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\network_info_plus_windows\Debug\network_info_plus_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\webview_windows\Debug\webview_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\windows_single_instance\Debug\windows_single_instance_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\runner\Debug\gestor_paipfood.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\plugins\webview_windows\x64\Debug\webview_windows_DEPENDENCIES_DOWNLOAD</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\git_subir\armazensr\paip_gestor_webview\build\windows\x64\Debug\INSTALL</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

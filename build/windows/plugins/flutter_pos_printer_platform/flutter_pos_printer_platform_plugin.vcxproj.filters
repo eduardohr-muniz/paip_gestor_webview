@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\flutter_pos_printer_platform\windows\flutter_pos_printer_platform_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\flutter_pos_printer_platform\windows\include\printer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\flutter_pos_printer_platform\windows\include\printer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\flutter_pos_printer_platform\windows\include\utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\git_subir\armazensr\paip_gestor_webview\windows\flutter\ephemeral\.plugin_symlinks\flutter_pos_printer_platform\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EABC3447-E692-3A47-8F78-D7E78566EAB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CD8E688-B0AB-385A-94CA-1E18170DDE3F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\GIT_SUBIR\ARMAZENSR\PAIP_GESTOR_WEBVIEW\BUILD\WINDOWS\CMAKEFILES\C95F6AA545DFA25F7AAC531F12C2FA2A\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
